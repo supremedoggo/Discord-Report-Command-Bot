@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "policebot-source-code"
-version = "0.1.0"
+name = "Discord-Report-Bot"
+version = "1.0"
 description = "A simple reporting bot I made for my Discord server."
 authors = ["supremedoggo"]
 
